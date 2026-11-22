@@ -1,0 +1,7 @@
+# local secrets / tokens
+.env
+*.token
+# windows artifacts
+*.zip
+*.exe
+*.msi
